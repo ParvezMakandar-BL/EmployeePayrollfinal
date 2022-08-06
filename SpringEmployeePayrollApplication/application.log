@@ -1,0 +1,21 @@
+2021-11-08 12:39:28.125  INFO 27880 --- [restartedMain] c.b.e.EmployeePayrollAppApplication      : Starting EmployeePayrollAppApplication using Java 15.0.2 on PERFIOS-HW-394 with PID 27880 (D:\Workspace\Phase2\EmployeePayrollApp\target\classes started by Ajaybarath in D:\Workspace\Phase2\EmployeePayrollApp)
+2021-11-08 12:39:28.126 DEBUG 27880 --- [restartedMain] c.b.e.EmployeePayrollAppApplication      : Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-08 12:39:28.126  INFO 27880 --- [restartedMain] c.b.e.EmployeePayrollAppApplication      : No active profile set, falling back to default profiles: default
+2021-11-08 12:39:29.396  WARN 27880 --- [restartedMain] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-08 12:39:30.001  WARN 27880 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-08 12:39:30.740  INFO 27880 --- [restartedMain] c.b.e.EmployeePayrollAppApplication      : Started EmployeePayrollAppApplication in 2.906 seconds (JVM running for 3.601)
+2021-11-08 12:39:30.742  INFO 27880 --- [restartedMain] c.b.e.EmployeePayrollAppApplication      : Spring applicantion started
+2021-11-08 12:54:01.748 [INFO] [restartedMain] [c.b.e.EmployeePayrollAppApplication:55] Starting EmployeePayrollAppApplication using Java 15.0.2 on PERFIOS-HW-394 with PID 28812 (D:\Workspace\Phase2\EmployeePayrollApp\target\classes started by Ajaybarath in D:\Workspace\Phase2\EmployeePayrollApp)
+2021-11-08 12:54:01.749 [DEBUG] [restartedMain] [c.b.e.EmployeePayrollAppApplication:56] Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-08 12:54:01.749 [INFO] [restartedMain] [c.b.e.EmployeePayrollAppApplication:663] The following profiles are active: prod
+2021-11-08 12:54:02.955 [WARN] [restartedMain] [c.z.h.u.DriverDataSource:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-08 12:54:03.543 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-08 12:54:04.225 [INFO] [restartedMain] [c.b.e.EmployeePayrollAppApplication:61] Started EmployeePayrollAppApplication in 2.772 seconds (JVM running for 3.359)
+2021-11-08 12:54:04.227 [INFO] [restartedMain] [c.b.e.EmployeePayrollAppApplication:13] Spring applicantion started
+2021-11-08 12:58:09.376 [INFO] [restartedMain] [c.b.e.EmployeePayrollAppApplication:55] Starting EmployeePayrollAppApplication using Java 15.0.2 on PERFIOS-HW-394 with PID 15548 (D:\Workspace\Phase2\EmployeePayrollApp\target\classes started by Ajaybarath in D:\Workspace\Phase2\EmployeePayrollApp)
+2021-11-08 12:58:09.376 [DEBUG] [restartedMain] [c.b.e.EmployeePayrollAppApplication:56] Running with Spring Boot v2.5.6, Spring v5.3.12
+2021-11-08 12:58:09.378 [INFO] [restartedMain] [c.b.e.EmployeePayrollAppApplication:663] The following profiles are active: prod
+2021-11-08 12:58:10.567 [WARN] [restartedMain] [c.z.h.u.DriverDataSource:70] Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2021-11-08 12:58:11.185 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-08 12:58:11.867 [INFO] [restartedMain] [c.b.e.EmployeePayrollAppApplication:61] Started EmployeePayrollAppApplication in 2.787 seconds (JVM running for 3.369)
+2021-11-08 12:58:11.869 [INFO] [restartedMain] [c.b.e.EmployeePayrollAppApplication:14] Employee Payroll Applicantion Started in PROD Environment

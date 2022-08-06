@@ -1,0 +1,187 @@
+{
+  "employee": [
+    {
+      "name": "mohit kumar new",
+      "gender": "male",
+      "department": [
+        "HR",
+        "FINANCE"
+      ],
+      "salary": "30000",
+      "startDate": "1 Jan 2020",
+      "notes": "",
+      "id": 1604589551457,
+      "profileUrl": "../assets/profile-images/Ellipse -1.png"
+    },
+    {
+      "name": "mohit kumar test",
+      "gender": "male",
+      "department": [
+        "HR"
+      ],
+      "salary": "30000",
+      "startDate": "1 Jan 2020",
+      "notes": "",
+      "id": 1604589594363,
+      "profileUrl": "../assets/profile-images/Ellipse -1.png"
+    },
+    {
+      "name": "mohit",
+      "gender": "male",
+      "department": [
+        "HR"
+      ],
+      "salary": "30000",
+      "startDate": "1 Jan 2020",
+      "notes": "",
+      "id": 1604589699566,
+      "profileUrl": "../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "name": "test",
+      "gender": "male",
+      "department": [
+        "HR"
+      ],
+      "salary": "30000",
+      "startDate": "1 Jan 2020",
+      "notes": "",
+      "id": 1604589731061,
+      "profileUrl": "../assets/profile-images/Ellipse -3.png"
+    },
+    {
+      "name": "Anbjds",
+      "salary": "",
+      "profileImage": "../assets/profile-images/Ellipse 1.png",
+      "gender": "male",
+      "department": [],
+      "startDate": "1 January 2021",
+      "note": "",
+      "id": 1604589731062
+    },
+    {
+      "name": "Ahbdh",
+      "salary": "",
+      "profileImage": "on",
+      "gender": "male",
+      "department": [
+        "department"
+      ],
+      "startDate": "1 January 2021",
+      "note": "",
+      "id": 1604589731063
+    },
+    {
+      "name": "Ajhbdf",
+      "salary": "",
+      "profileImage": "on",
+      "gender": "male",
+      "department": [
+        "Others"
+      ],
+      "startDate": "1 January 2021",
+      "note": "",
+      "id": 1604589731064
+    },
+    {
+      "name": "Adbdf",
+      "salary": "",
+      "profileImage": "on",
+      "gender": "male",
+      "department": [
+        "Sales",
+        "Finance",
+        "Engineer",
+        "Others"
+      ],
+      "startDate": "1 January 2021",
+      "note": "",
+      "id": 1604589731065
+    },
+    {
+      "name": "Adbdf",
+      "salary": "",
+      "profileImage": "on",
+      "gender": "male",
+      "department": [
+        "Sales",
+        "Finance",
+        "Engineer",
+        "Others"
+      ],
+      "startDate": "1 January 2021",
+      "note": "",
+      "id": 1604589731066
+    },
+    {
+      "name": "Ahbdh",
+      "salary": "",
+      "profileImage": "../assets/profile-images/Ellipse 1.png",
+      "gender": "male",
+      "department": [
+        "HR",
+        "Sales",
+        "Finance"
+      ],
+      "startDate": "1 January 2021",
+      "note": "",
+      "id": 1604589731067
+    },
+    {
+      "name": "Ahbdh",
+      "salary": "",
+      "profileImage": "../assets/profile-images/Ellipse 1.png",
+      "gender": "male",
+      "department": [
+        "Sales",
+        "Finance"
+      ],
+      "startDate": "1 January 2021",
+      "note": "",
+      "id": 1604589731068
+    },
+    {
+      "name": "Ahbdh",
+      "salary": "",
+      "profileImage": "../assets/profile-images/Ellipse 1.png",
+      "gender": "male",
+      "department": [
+        "HR",
+        "Finance"
+      ],
+      "startDate": "1 January 2021",
+      "note": "",
+      "id": 1604589731069
+    },
+    {
+      "name": "Ahbdh",
+      "salary": "",
+      "profileImage": "../assets/profile-images/Ellipse 1.png",
+      "gender": "male",
+      "department": [
+        "HR",
+        "Sales",
+        "Finance",
+        "Others",
+        "Engineer"
+      ],
+      "startDate": "1 January 2021",
+      "note": "",
+      "id": 1604589731070
+    },
+    {
+      "name": "Barathkjd",
+      "salary": "445500",
+      "profileImage": "../assets/profile-images/Ellipse -8.png",
+      "gender": "male",
+      "department": [
+        "Sales",
+        "Finance",
+        "Engineer"
+      ],
+      "startDate": "1 November 2021",
+      "note": "",
+      "id": 1604589731071
+    }
+  ]
+}
